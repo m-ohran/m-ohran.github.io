@@ -10,5 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### [HOME](https://m-ohran.github.io/) | [ABOUT ME](https://m-ohran.github.io/about_me) | [RESEARCH](https://m-ohran.github.io/research)
 
-<br><br><br>
+<br>
 
+#### [Genome Size & Lifespan](https://m-ohran.github.io/research/sex_chromosome_project)
