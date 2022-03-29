@@ -1,0 +1,11 @@
+---
+title: "About Me"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[CV](https://m-ohran.github.io/about_me/CV.pdf)
