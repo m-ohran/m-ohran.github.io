@@ -6,5 +6,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
 
-[HOME](https://m-ohran.github.io/) [ABOUT ME](https://m-ohran.github.io/about_me) [RESEARCH](https://m-ohran.github.io/research)
+### [HOME](https://m-ohran.github.io/) | [ABOUT ME](https://m-ohran.github.io/about_me) | [RESEARCH](https://m-ohran.github.io/research)
