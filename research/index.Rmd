@@ -8,8 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-### [HOME](https://m-ohran.github.io/) | [ABOUT ME](https://m-ohran.github.io/about_me) | [RESEARCH](https://m-ohran.github.io/research)
+## [HOME](https://m-ohran.github.io/) | [ABOUT ME](https://m-ohran.github.io/about-me) | [RESEARCH](https://m-ohran.github.io/research)
 
 <br>
 
-#### [Genome Size & Lifespan](https://m-ohran.github.io/research/sex_chromosome_project)
+#### [Genome Size & Lifespan](https://m-ohran.github.io/research/sex-chromosome-project)
