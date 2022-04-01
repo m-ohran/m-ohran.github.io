@@ -6,6 +6,7 @@ navbar: _navbar.html
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<body style="background-color:#741db3;">
 
 <br>
 

@@ -7,6 +7,7 @@ navbar: _navbar.html
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<body style="background-color:#741db3;">
 <br>
 
 ## Home
@@ -17,3 +18,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##### Marissa Ohran <br>
 ##### marissa.ohran@gmail.com
+
+</body>
