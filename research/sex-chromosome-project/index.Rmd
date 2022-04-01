@@ -1,5 +1,6 @@
 ---
 output: html_document
+navbar: _navbar.html
 ---
 
 ```{r setup, include=FALSE}
@@ -8,8 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-## [HOME](https://m-ohran.github.io/) | [ABOUT ME](https://m-ohran.github.io/about-me) | [RESEARCH](https://m-ohran.github.io/research)
+## Genome Size & Lifespan
 
-<br>
-
-This is where I'll put information about my research on genome size and lifespan
+The question I want to answer is whether or not the difference in genome size between homogametic and heterogametic individuals in a species contributes to the difference in lifespan between those individuals.

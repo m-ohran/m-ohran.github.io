@@ -1,5 +1,6 @@
 ---
 output: html_document
+navbar: _navbar.html
 ---
 
 ```{r setup, include=FALSE}
@@ -8,8 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-## [HOME](https://m-ohran.github.io/) | [ABOUT ME](https://m-ohran.github.io/about-me) | [RESEARCH](https://m-ohran.github.io/research)
-
+## Home
 <br><br><br>
 
 #### **Contact Info:**
