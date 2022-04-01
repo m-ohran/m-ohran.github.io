@@ -10,8 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-## Research
+## **Research**
 
 <br>
 
-#### [Genome Size & Lifespan](https://m-ohran.github.io/research/sex-chromosome-project)
+#### I am currently conducting research in the [Hjelmen Lab](https://cehjelmen.github.io/team.html) under the direction of Dr. Carl Hjelmen.
+
+<br>
+
+### **Projects:**
+
+
+ - [Genome Size & Lifespan](https://m-ohran.github.io/research/sex-chromosome-project)

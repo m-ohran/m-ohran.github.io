@@ -10,10 +10,22 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-## Home
+## **Home**
 
-<br><br><br>
+<br>
 
+<div style= "float:center;position: relative;top:10px">
+```{r, out.width = "500px",echo=FALSE}
+knitr::include_graphics("./IMG_7365.JPG")
+```
+</div>
+###### Photo: [Ever Adventuress](https://www.facebook.com/everadventuress/)
+
+
+
+<br>
+
+___
 #### **Contact Info:**
 
 ##### Marissa Ohran <br>

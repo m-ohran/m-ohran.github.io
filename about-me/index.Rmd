@@ -11,14 +11,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-### **About Me**
+## **About Me**
 
 <br>
 
-#### **UVU Bioinformatics Student**
+### **UVU Bioinformatics**
 
 <br>
 
-#### Current [CV](https://m-ohran.github.io/about-me/CV.pdf) <br><br>
+### [Current CV](https://m-ohran.github.io/about-me/CV.pdf) <br><br>
 
-##### I am a senior at UVU studying Bioinformatics. Currently I'm conducting research in the [Hjelmen Lab](https://cehjelmen.github.io/team.html) under the direction of Dr. Carl Hjelmen. More information about my research can be found [here](https://m-ohran.github.io/research).
+#### I am a senior at Utah Valley University, studying Bioinformatics. I'm particularly interested in genomics, and plan to pursue a PhD in the subject after I graduate next spring. I grew up in Orem, Utah, about 5 minutes away from UVU. I attended an early college high school, and in 2015 I graduated with both my high school diploma and an Associate of Science. I started at UVU that fall, and it ended up taking me longer than I would have liked to find my niche. I started out in Percussion Performance, and then switched to Biology, however when the Bioinformatics major was introduced in Fall 2021 I knew I had found my place. About the time I made the switch to Bioinformatics, I got involved in undergraduate research and discovered I really enjoy it. Information about my research can be found [here](https://m-ohran.github.io/research).
+
+<br>
+
+#### I have always been an animal lover, particularly mammals and reptiles (including birds). I'm lucky enough to share my living space with the sweetest dogs in the world, and hope to add a snake or lizard at some point in the future. When I'm not working on school or research projects, I enjoy reading, drawing, playing music, and hanging out with my dogs.
+
+
