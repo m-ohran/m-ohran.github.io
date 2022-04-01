@@ -20,5 +20,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Projects:**
 
-
+ - [Utah Lake Fungal Survey](https://m-ohran.github.io/research/utah-lake)
  - [Genome Size & Lifespan](https://m-ohran.github.io/research/sex-chromosome-project)
+

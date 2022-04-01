@@ -1,0 +1,17 @@
+---
+output: html_document
+navbar: _navbar.html
+pagetitle: Utah Lake Fungal Survey
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## **Utah Lake Fungal Survey**
+
+<br>
+
+This project was part of a CURE for a Mycology course taught by [Dr. Geoffrey Zahn](https://gzahn.github.io/). We wanted to survey Utah Lake and identify what species of aquatic fungi are living there, with the goal of helping water and land managers better understand the lake’s ecology. My group and I took trips to the lake to collect water samples and sediment samples. We then released and isolated the DNA from our samples in the lab using Qiagen Soil Kits. We then amplified and barcoded the ITS2 region of the rDNA with PCR and sent it off for Illumina meta-amplicon sequencing.
