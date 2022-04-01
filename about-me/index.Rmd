@@ -6,7 +6,7 @@ navbar: _navbar.html
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-<body style="background-color:#741db3;">
+
 
 <br>
 
@@ -19,5 +19,3 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Current [CV](https://m-ohran.github.io/about-me/CV.pdf) <br><br>
 
 ##### I am a senior at UVU studying Bioinformatics. Currently I'm conducting research in the [Hjelmen Lab](https://cehjelmen.github.io/team.html) under the direction of Dr. Carl Hjelmen. More information about my research can be found [here](https://m-ohran.github.io/research).
-
-</body>
