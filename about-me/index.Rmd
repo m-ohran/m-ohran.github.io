@@ -1,6 +1,7 @@
 ---
 output: html_document
 navbar: _navbar.html
+pagetitle: About Me
 ---
 
 ```{r setup, include=FALSE}
@@ -11,6 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 ### **About Me**
+
+<br>
 
 #### **UVU Bioinformatics Student**
 

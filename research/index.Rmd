@@ -1,6 +1,7 @@
 ---
 output: html_document
 navbar: _navbar.html
+pagetitle: Research
 ---
 
 ```{r setup, include=FALSE}
