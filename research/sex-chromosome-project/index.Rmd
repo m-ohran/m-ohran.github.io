@@ -12,4 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## **Genome Size & Lifespan**
 
+<br>
+
 The question I want to answer is whether or not the difference in genome size between homogametic and heterogametic individuals in a species contributes to the difference in lifespan between those individuals.
