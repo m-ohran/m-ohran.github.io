@@ -1,5 +1,8 @@
 ---
-output: html_document
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
 navbar: _navbar.html
 pagetitle: About Me
 ---
@@ -7,7 +10,6 @@ pagetitle: About Me
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 
 <br>
 
@@ -27,4 +29,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### I have always been an animal lover, particularly mammals and reptiles (including birds). I'm lucky enough to share my living space with the sweetest dogs in the world, and hope to add a snake or lizard at some point in the future. When I'm not working on school or research projects, I enjoy reading, drawing, playing music, and hanging out with my dogs.
 
+</div>
 
+<br>

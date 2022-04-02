@@ -1,5 +1,8 @@
 ---
-output: html_document
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
 navbar: _navbar.html
 pagetitle: Research
 ---
@@ -8,7 +11,6 @@ pagetitle: Research
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<br>
 
 ## **Research**
 
@@ -23,3 +25,4 @@ knitr::opts_chunk$set(echo = TRUE)
  - [Utah Lake Fungal Survey](https://m-ohran.github.io/research/utah-lake)
  - [Genome Size & Lifespan](https://m-ohran.github.io/research/sex-chromosome-project)
 
+</div>

@@ -1,5 +1,8 @@
 ---
-output: html_document
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
 navbar: _navbar.html
 pagetitle: Genome Size & Lifespan
 ---
@@ -8,10 +11,13 @@ pagetitle: Genome Size & Lifespan
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<br>
+
 
 ## **Genome Size & Lifespan**
 
 <br>
 
 ##### We are trying to figure out whether or not the difference in genome size between homogametic and heterogametic individuals in a species contributes to the difference in lifespan between those individuals.
+
+</div>
+
