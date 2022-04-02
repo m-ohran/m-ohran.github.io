@@ -25,7 +25,7 @@ knitr::include_graphics("./IMG_7365.JPG")
 </div>
 ###### Photo: [Ever Adventuress](https://www.facebook.com/everadventuress/)
 
-
+<br><br><br><br>
 
 </body>
 

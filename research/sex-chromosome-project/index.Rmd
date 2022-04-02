@@ -11,13 +11,17 @@ pagetitle: Genome Size & Lifespan
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
+<body>
 
 ## **Genome Size & Lifespan**
 
 <br>
 
 ##### We are trying to figure out whether or not the difference in genome size between homogametic and heterogametic individuals in a species contributes to the difference in lifespan between those individuals.
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+</body>
 
 </div>
 
