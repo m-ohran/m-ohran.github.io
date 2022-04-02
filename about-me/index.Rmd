@@ -11,7 +11,7 @@ pagetitle: About Me
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<br>
+<body>
 
 ## **About Me**
 
@@ -28,6 +28,8 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 #### I have always been an animal lover, particularly mammals and reptiles (including birds). I'm lucky enough to share my living space with the sweetest dogs in the world, and hope to add a snake or lizard at some point in the future. When I'm not working on school or research projects, I enjoy reading, drawing, playing music, and hanging out with my dogs.
+
+</body>
 
 </div>
 
