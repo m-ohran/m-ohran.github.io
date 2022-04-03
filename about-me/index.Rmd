@@ -24,7 +24,7 @@ knitr::include_graphics("./IMG_2824_Original.jpg")
 
 <br>
 
-#### I am a senior at Utah Valley University, studying Bioinformatics. I'm particularly interested in genomics, and plan to pursue a PhD in the subject after I graduate next spring. I grew up in Orem, Utah, about 5 minutes away from UVU. I attended an early college high school, and in 2015 I graduated with both my high school diploma and an Associate of Science. I started at UVU that fall, and it ended up taking me longer than I would have liked to find my niche. I started out in Percussion Performance, and then switched to Biology, however when the Bioinformatics major was introduced in Fall 2021 I knew I had found my place. About the time I made the switch to Bioinformatics, I got involved in undergraduate research and discovered I really enjoy it. Information about my research can be found [here](https://m-ohran.github.io/research).
+#### I grew up in Orem, Utah, about 5 minutes away from Utah Valley University, where I am currently pursuing a Bachelor of Science in Bioinformatics. I'm passionate about learning, and have always been what my parents called a "math and science kid." I greatly enjoy problem solving and discovery. I credit my childhood love of dragons, dinosaurs, and all kinds of animals with being the first stepping stone towards my interest in Biology. I developed an intrerest in evolution and genomics, so UVU's Bioinformatics program was a natural fit. I've had the opportunity to get involved in undergraduate research, and have found that I really enjoy it. 
 
 <br>
 
