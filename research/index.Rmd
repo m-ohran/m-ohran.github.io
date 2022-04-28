@@ -16,14 +16,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-#### I am currently conducting research in the [Hjelmen Lab](https://cehjelmen.github.io/team.html) under the direction of Dr. Carl Hjelmen.
+### **Current Projects:**
+```{r include=FALSE}
+#  - [Utah Lake Fungal Survey](https://m-ohran.github.io/research/utah-lake)
+```
 
-<br>
-
-### **Projects:**
-
- - [Utah Lake Fungal Survey](https://m-ohran.github.io/research/utah-lake)
- - [Genome Size & Lifespan](https://m-ohran.github.io/research/sex-chromosome-project)
+ - [Sex Chromosomes & Lifespan](https://m-ohran.github.io/research/sex-chromosome-project)
  
  
  <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
