@@ -1,0 +1,24 @@
+
+Call:
+glm(formula = lifespan_diff ~ gs_diff_det_mb, data = .)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-14.500   -5.944   -0.364    5.324   31.883  
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)  
+(Intercept)    4.472740   2.329386    1.92   0.0679 .
+gs_diff_det_mb 0.005745   0.005131    1.12   0.2750  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for gaussian family taken to be 121.2629)
+
+    Null deviance: 2819.8  on 23  degrees of freedom
+Residual deviance: 2667.8  on 22  degrees of freedom
+  (17 observations deleted due to missingness)
+AIC: 187.17
+
+Number of Fisher Scoring iterations: 2
+
