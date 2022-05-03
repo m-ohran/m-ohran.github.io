@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-##### This is a follow-up study to a study done on lifespan difference in homogametic and heterogametic individuals across the kingdom Animalia. Xircostas et. al (2020) found that individuals of the heterogametic sex, or the sex with the reduced sex chromosome, live shorter lives than their homogametic counterparts. We wanted to know if the size difference between sex chromosomes has any correlation with the difference in lifespan. 
+##### This is a follow-up study to a study done on lifespan difference in homogametic and heterogametic individuals across the kingdom Animalia. Xirocostas et. al (2020) found that individuals of the heterogametic sex, or the sex with the reduced sex chromosome, live shorter lives than their homogametic counterparts. We wanted to know if the size difference between sex chromosomes has any correlation with the difference in lifespan. 
 
 <br>
 
@@ -41,7 +41,7 @@ knitr::include_graphics("./Output/Figs/GS_diff_Lifespan_diff.png")
 
 <br>
 
-##### I next plotted the genome size difference against the lifespan log response ratio. The lifespans of the different species are in different units (days, months, years), so to correct for this Xircostas et. al (2020) calculated the log response ratio by taking the natural log of the homogametic lifespan divided by the heterogametic lifespan. It doesn't really look like there's any correlation here either, although the two plots appear to be very similar.
+##### I next plotted the genome size difference against the lifespan log response ratio. The lifespans of the different species are in different units (days, months, years), so to correct for this Xirocostas et. al (2020) calculated the log response ratio by taking the natural log of the homogametic lifespan divided by the heterogametic lifespan. It doesn't really look like there's any correlation here either, although the two plots appear to be very similar.
 
 ```{r, out.width = "700px",echo=FALSE}
 knitr::include_graphics("./Output/Figs/GS_diff_Lifespan_lrr.png")
