@@ -27,7 +27,7 @@ knitr::include_graphics("./IMG_7365.JPG")
 
 <div style = "padding: 20px;">
 
-  <h4>I'm a senior at Utah Valley University, majoring in Bioinformatics with a minor in Biology. I plan to pursue a PhD in genomics after I graduate next spring. I am currently doing research in the <a href = https://cehjelmen.github.io/index.html>Hjelmen Lab</a> at UVU. Information on research projects I have been involved in can be found <a href = https://m-ohran.github.io/research>here</a>.</h4>
+  <h4>I'm a senior at Utah Valley University, majoring in Bioinformatics with a minor in Biology. I plan to pursue a PhD in genomics after I graduate in the spring. I am currently doing research in the <a href = https://cehjelmen.github.io/index.html>Hjelmen Lab</a> at UVU. Information on research projects I have been involved in can be found <a href = https://m-ohran.github.io/research>here</a>.</h4>
 
 </div>
 

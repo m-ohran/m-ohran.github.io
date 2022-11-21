@@ -49,7 +49,7 @@ knitr::include_graphics("./Output/Figs/GS_diff_Lifespan_lrr.png")
 
 <br>
 
-##### I put together a couple of models to see if there was any statistical significance. There was not.
+##### I put together a couple of models to see if there was any statistical significance. There didn't appear to be.
 
 ###### Genome Size Difference and Lifespan Difference
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
@@ -67,7 +67,7 @@ read_lines("Output/Stats/mod2.txt")
 
 <br>
 
-##### Looking at the plots and the models, there doesn't appear to be any significant relationship in the lifespan difference and the sex chromosome size difference.
+##### Looking at the plots and the models, there doesn't appear to be any significant relationship in the lifespan difference and the sex chromosome size difference. However, more data might tell a different story. 
 
 <br>
 
